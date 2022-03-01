@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.d76c7b78.css",
-    "main.js": "/static/js/main.6b3577bd.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "index.html": "/index.html",
-    "static/media/cube.svg": "/static/media/cube.df26c841eed07efd6b6441b58a26e3ff.svg",
-    "static/media/document-download2.svg": "/static/media/document-download2.7ce7438aff8def96bb3b1576feb1b463.svg",
-    "static/media/globe.svg": "/static/media/globe.7d12826bbbd68d385fabc2a6d149bf7a.svg",
-    "static/media/terminal.svg": "/static/media/terminal.fa8d4e4f0641c366e73dcc9fe65aa2c0.svg",
-    "static/media/mobile.svg": "/static/media/mobile.0831480084bc7700fe9fab656837b267.svg",
-    "static/media/search.svg": "/static/media/search.a204ab29903a42ec1cab1d2a3a67b5d8.svg",
-    "static/media/dots-horizontal.svg": "/static/media/dots-horizontal.5bca0c099a774055282bbeec64b402a0.svg",
-    "main.d76c7b78.css.map": "/static/css/main.d76c7b78.css.map",
-    "main.6b3577bd.js.map": "/static/js/main.6b3577bd.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.d76c7b78.css",
+    "main.js": "/portfolio/static/js/main.cb505fb6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/portfolio/index.html",
+    "static/media/cube.svg": "/portfolio/static/media/cube.df26c841eed07efd6b6441b58a26e3ff.svg",
+    "static/media/document-download2.svg": "/portfolio/static/media/document-download2.7ce7438aff8def96bb3b1576feb1b463.svg",
+    "static/media/globe.svg": "/portfolio/static/media/globe.7d12826bbbd68d385fabc2a6d149bf7a.svg",
+    "static/media/terminal.svg": "/portfolio/static/media/terminal.fa8d4e4f0641c366e73dcc9fe65aa2c0.svg",
+    "static/media/mobile.svg": "/portfolio/static/media/mobile.0831480084bc7700fe9fab656837b267.svg",
+    "static/media/search.svg": "/portfolio/static/media/search.a204ab29903a42ec1cab1d2a3a67b5d8.svg",
+    "static/media/dots-horizontal.svg": "/portfolio/static/media/dots-horizontal.5bca0c099a774055282bbeec64b402a0.svg",
+    "main.d76c7b78.css.map": "/portfolio/static/css/main.d76c7b78.css.map",
+    "main.cb505fb6.js.map": "/portfolio/static/js/main.cb505fb6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d76c7b78.css",
-    "static/js/main.6b3577bd.js"
+    "static/js/main.cb505fb6.js"
   ]
 }
