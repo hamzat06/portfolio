@@ -4,13 +4,16 @@ import DocumentDownload from "../assets/icons/document-download2.svg";
 
 export const Hero = () => {
     return (
-        <section>
+        <section className="py-20">
             <div className="flex justify-between">
-                <h1 className="text-4xl mt-10">
+                <h1 className="text-4xl">
                     Hello, I am <br />
                     <span className="text-blue-400">
                         <Typewriter
-                            words={["Hamzat Ajanaku", "A Software Developer"]}
+                            words={[
+                                "Hamzat Ajanaku",
+                                "A Full-stack Software Developer"
+                            ]}
                             loop={0}
                             cursor
                             cursorStyle="_"

@@ -2,6 +2,9 @@ import { Component } from "react";
 import { Navbar } from "./components/Navbar";
 import { Hero } from "./components/Hero";
 import { Services } from "./components/Services";
+import { About } from "./components/About";
+import { Work } from "./components/Work";
+import { Footer } from "./components/Footer";
 
 class App extends Component {
     constructor(props) {
@@ -24,7 +27,10 @@ class App extends Component {
                 <div className="container max-w-2xl p-5">
                     <Hero />
                     <Services />
+                    <About />
+                    <Work />
                 </div>
+                <Footer />
             </div>
         );
     }
