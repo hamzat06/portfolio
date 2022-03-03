@@ -17,7 +17,7 @@ export const Services = () => {
                         className="w-20 h-20 mb-5 mx-auto"
                     />
                     <p>Website & Web App Development</p>
-                    <span className="text-blue-400">
+                    <span className="text-blue-400 font-semibold">
                         <Typewriter
                             words={["React.js", "Vue.js", "Ruby on Rails"]}
                             loop={0}
@@ -36,7 +36,7 @@ export const Services = () => {
                         className="w-20 h-20 mb-5 mx-auto"
                     />
                     <p>Mobile App Development</p>
-                    <span className="text-blue-400">
+                    <span className="text-blue-400 font-semibold">
                         <Typewriter
                             words={["React Native", "Ionic-Vue"]}
                             loop={0}
@@ -55,7 +55,7 @@ export const Services = () => {
                         className="w-20 h-20 mb-5 mx-auto"
                     />
                     <p>Search Engine Optimization</p>
-                    <span className="text-blue-400">
+                    <span className="text-blue-400 font-semibold">
                         <Typewriter
                             words={["S.E.O."]}
                             loop={0}

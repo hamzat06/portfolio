@@ -16,7 +16,7 @@ export const About = () => {
                                 <Typewriter
                                     words={[
                                         "with 3 years of professional experience.",
-                                        "that loves to satisfy clients."
+                                        "that love to satisfy clients."
                                     ]}
                                     loop={0}
                                     cursor

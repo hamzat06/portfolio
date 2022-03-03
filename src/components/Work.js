@@ -1,4 +1,4 @@
-import LinkIcon from "../assets/icons/link.svg";
+// import LinkIcon from "../assets/icons/link.svg";
 
 export const Work = () => {
     return (
@@ -9,13 +9,14 @@ export const Work = () => {
                 </h2>
                 <div className="grid grid-cols-3 gap-4">
                     <a href="/">
-                        <div className="flex">
-                            <h3>Jukeboys NFT</h3>
-                            <img alt="" src={LinkIcon} className="ml-1 w-16" />
-                        </div>
+                        <div>1</div>
                     </a>
-                    <div>2</div>
-                    <div>3</div>
+                    <a href="/">
+                        <div>2</div>
+                    </a>
+                    <a href="/">
+                        <div>3</div>
+                    </a>
                 </div>
             </div>
         </section>
