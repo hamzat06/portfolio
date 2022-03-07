@@ -5,7 +5,7 @@ import DotsHorizontal from "../assets/icons/dots-horizontal.svg";
 export const Navbar = ({ toggleNav }) => {
     return (
         <nav>
-            <div className="container px-5 py-3 flex justify-between">
+            <div className="px-5 py-3 flex justify-between">
                 <a href="/" className="flex p-1 hover:bg-gray-200 rounded">
                     <img src={Cube} alt="logo" className="w-6 h-6 mr-1" />
                     <span className="text-lg">H-Codes</span>
